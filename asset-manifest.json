@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atom3586/movie-app/static/css/main.48fd8062.css",
+    "main.js": "/atom3586/movie-app/static/js/main.8ca77776.js",
+    "index.html": "/atom3586/movie-app/index.html",
+    "main.48fd8062.css.map": "/atom3586/movie-app/static/css/main.48fd8062.css.map",
+    "main.8ca77776.js.map": "/atom3586/movie-app/static/js/main.8ca77776.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fd8062.css",
+    "static/js/main.8ca77776.js"
+  ]
+}
